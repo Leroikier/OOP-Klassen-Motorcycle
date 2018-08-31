@@ -22,7 +22,7 @@ namespace OOP_Klassen_Motorcycle
 
             //mc1.isStarted();
 
-            mc1.GetSpeed();
+            //mc1.GetSpeed();
             //Console.WriteLine(mc1.Hastighed);
 
             //mc1.ShiftGearsUp();
@@ -30,8 +30,8 @@ namespace OOP_Klassen_Motorcycle
             //mc1.ShiftGearsDown(3);
 
             //mc1.GetGear();
-            mc1.ToString();
 
+            //mc1.ToString();
             Console.WriteLine(mc1.ToString());
 
             Console.ReadKey();

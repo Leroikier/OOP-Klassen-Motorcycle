@@ -15,6 +15,7 @@ namespace OOP_Klassen_Motorcycle
 
         private string name;
 
+        //Propfull
         public string Name
         {
             get { return name; }
